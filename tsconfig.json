@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "baseUrl": ".",
+    "lib": ["es2017"],
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "*": ["./typings/*"]
+    },
+    "jsx": "preserve",
+    "jsxFactory": "html"
+  }
+}

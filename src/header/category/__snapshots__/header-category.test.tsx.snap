@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the basic category list item correctly 1`] = `
+Array [
+  <li
+    className="item "
+  >
+    <a
+      href="#"
+      className="link "
+    >
+      content
+    </a>
+  </li>,
+]
+`;
