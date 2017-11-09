@@ -1,7 +1,7 @@
 const babelConfig = targets => ({
   presets: [
     [
-      'env',
+      '@babel/preset-env',
       {
         useBuiltIns: 'usage',
         targets: {
@@ -9,11 +9,11 @@ const babelConfig = targets => ({
         },
       },
     ],
-    'typescript',
+    '@babel/preset-typescript',
   ],
   plugins: [
-    ['transform-react-jsx', { pragma: 'html' }],
-    'transform-object-rest-spread',
+    ['@babel/plugin-transform-react-jsx', { pragma: 'html' }],
+    '@babel/plugin-proposal-object-rest-spread',
   ],
 });
 
