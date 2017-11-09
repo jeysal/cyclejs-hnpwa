@@ -1,5 +1,7 @@
 # cyclejs-hnpwa
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jeysal/cyclejs-hnpwa.svg)](https://greenkeeper.io/)
+
 > A [Hacker News](https://news.ycombinator.com/) Progressive Web App powered by
 > [Cycle.js](https://cycle.js.org/)
 
