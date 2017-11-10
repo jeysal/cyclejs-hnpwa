@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@cycle/dom@^20.0.0":
-  version "20.0.0"
-  resolved "https://registry.yarnpkg.com/@cycle/dom/-/dom-20.0.0.tgz#8f36932b9232ee31841e977412a40eaad43b5a38"
+"@cycle/dom@^20.1.0":
+  version "20.1.0"
+  resolved "https://registry.yarnpkg.com/@cycle/dom/-/dom-20.1.0.tgz#8707e8947106ab19ffda83a1adb494dbbaf5c3ff"
   dependencies:
     "@cycle/run" "4.0.0"
     es6-map "^0.1.4"
@@ -24,15 +24,15 @@
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/@cycle/isolate/-/isolate-3.2.0.tgz#8ffddb9b05cb9a4fbcf812794c0e5285af341051"
 
-"@cycle/run@*", "@cycle/run@3.4", "@cycle/run@^3.1.0":
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/@cycle/run/-/run-3.4.0.tgz#113844add669ace91d245842522f3733ba5bd393"
+"@cycle/run@*", "@cycle/run@4.0.0", "@cycle/run@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@cycle/run/-/run-4.0.0.tgz#d48c5133cd783afdf7f9e37ce1c158b570d6c5f1"
   dependencies:
     xstream "10.x || 11.x"
 
-"@cycle/run@4.0.0", "@cycle/run@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@cycle/run/-/run-4.0.0.tgz#d48c5133cd783afdf7f9e37ce1c158b570d6c5f1"
+"@cycle/run@3.4", "@cycle/run@^3.1.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@cycle/run/-/run-3.4.0.tgz#113844add669ace91d245842522f3733ba5bd393"
   dependencies:
     xstream "10.x || 11.x"
 
@@ -140,12 +140,12 @@
   resolved "https://registry.yarnpkg.com/@types/minimatch/-/minimatch-3.0.1.tgz#b683eb60be358304ef146f5775db4c0e3696a550"
 
 "@types/node@*", "@types/node@^8.0.31":
-  version "8.0.50"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.50.tgz#dc545448e128c88c4eec7cd64025fcc3b7604541"
+  version "8.0.51"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.51.tgz#b31d716fb8d58eeb95c068a039b9b6292817d5fb"
 
 "@types/prettier@^1.7.0":
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-1.7.2.tgz#32f59de25ea57b75286b43ecfdbad1a912c09175"
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-1.8.0.tgz#ea17b92297d8b608d14c7d0c03078501b6388840"
   dependencies:
     "@types/babel-types" "*"
 
