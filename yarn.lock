@@ -192,6 +192,12 @@
   dependencies:
     "@babel/plugin-syntax-object-rest-spread" "7.0.0-beta.35"
 
+"@babel/plugin-proposal-object-rest-spread@7.0.0-beta.36":
+  version "7.0.0-beta.36"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.0.0-beta.36.tgz#9712585326ee8b1c0bd069af6583d3511d4bf66f"
+  dependencies:
+    "@babel/plugin-syntax-object-rest-spread" "7.0.0-beta.36"
+
 "@babel/plugin-proposal-optional-catch-binding@7.0.0-beta.35":
   version "7.0.0-beta.35"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-optional-catch-binding/-/plugin-proposal-optional-catch-binding-7.0.0-beta.35.tgz#44d6e492243e442ab1a686c96ed851b55a459223"
@@ -216,6 +222,10 @@
 "@babel/plugin-syntax-object-rest-spread@7.0.0-beta.35":
   version "7.0.0-beta.35"
   resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-object-rest-spread/-/plugin-syntax-object-rest-spread-7.0.0-beta.35.tgz#da521551c5439fdd32025bd26299d99fd704df95"
+
+"@babel/plugin-syntax-object-rest-spread@7.0.0-beta.36":
+  version "7.0.0-beta.36"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-object-rest-spread/-/plugin-syntax-object-rest-spread-7.0.0-beta.36.tgz#b39d32a342dc2cc18cb973b80536e94b44653d1f"
 
 "@babel/plugin-syntax-optional-catch-binding@7.0.0-beta.35":
   version "7.0.0-beta.35"
